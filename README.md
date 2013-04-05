@@ -9,4 +9,4 @@ If -q is specified, warnings will not be printed when realpath fails.
 Installation
 ------------
 
-	go get github.com/Knorkebrot/realpath
+	go get github.com/straccio/realpath
